@@ -4,7 +4,7 @@ date: 2021-09-25T07:26:54Z
 draft: false
 ---
 
-Hugo + GitHub 的方式架設簡單的 Blog 很有趣，這邊紀錄幾個資訊。
+[Hugo](https://github.com/gohugoio/hugo) + GitHub 的方式架設簡單的 Blog 很有趣，這邊紀錄幾個資訊。
 
 ## Hugo 編譯環境：[klakegg/hugo](https://hub.docker.com/r/klakegg/hugo/)
 
