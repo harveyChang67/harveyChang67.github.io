@@ -34,6 +34,9 @@ jobs:
           hugo-version: '0.83.1' # hugo 版本
           # extended: true  # 如果是使用extended版本的務必取消註解。
 
+      - name: Clean public
+        run: rm -rf public/*
+
       - name: Build
         run: hugo --minify
 
