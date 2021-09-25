@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pattoncaesar.github.io/sitemap.xml
