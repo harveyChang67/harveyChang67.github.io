@@ -1,7 +1,13 @@
 baseURL: https://pattoncaesar.github.io/
 # languageCode: en-us
 title: 隨筆
+paginate: 5
 theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
 minify:
     disableXML: true
