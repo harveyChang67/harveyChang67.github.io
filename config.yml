@@ -6,3 +6,8 @@ theme: "PaperMod"
 minify:
     disableXML: true
     minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    defaultTheme: dark
+    disableThemeToggle: false
