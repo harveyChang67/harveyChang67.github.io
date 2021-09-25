@@ -1,0 +1,8 @@
+baseURL: http://example.org/
+# languageCode: en-us
+title: 隨筆
+theme: "PaperMod"
+
+minify:
+    disableXML: true
+    minifyOutput: true
