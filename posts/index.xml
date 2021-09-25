@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>隨筆</title>
-    <link>https://pattoncaesar.github.io/</link>
-    <description>Recent content on 隨筆</description>
+    <title>Posts on 隨筆</title>
+    <link>https://pattoncaesar.github.io/posts/</link>
+    <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Sep 2021 07:26:54 +0000</lastBuildDate><atom:link href="https://pattoncaesar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Sep 2021 07:26:54 +0000</lastBuildDate><atom:link href="https://pattoncaesar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://pattoncaesar.github.io/posts/hello-world/</link>
