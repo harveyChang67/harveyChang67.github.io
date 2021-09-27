@@ -5,14 +5,21 @@ draft: false
 ---
 
 [Hugo](https://github.com/gohugoio/hugo) + GitHub 的方式架設簡單的 Blog 很有趣，這邊紀錄幾個資訊。
+- 建置、測試環境：docker
+- 編譯：Github Action
+- Hosting：Github
 
-## Hugo 編譯環境：[klakegg/hugo](https://hub.docker.com/r/klakegg/hugo/)
+## Hugo 建置、測試環境：[klakegg/hugo](https://hub.docker.com/r/klakegg/hugo/)
 
 環境指令：
->   docker run --rm -it -v $(pwd):/src klakegg/hugo:0.83.1
+```bash
+docker run --rm -it -v $(pwd):/src klakegg/hugo:0.83.1
+```
 
 Windows 環境指令：
->   docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1
+```cmd
+docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1
+```
 
 其後接 Hugo 的[指令](https://gohugo.io/getting-started/usage/)即可。
 
