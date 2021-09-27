@@ -13,11 +13,9 @@
       
       <guid>https://harveyChang67.github.io/posts/hello-world/</guid>
       <description>Hugo + GitHub 的方式架設簡單的 Blog 很有趣，這邊紀錄幾個資訊。
-Hugo 編譯環境：klakegg/hugo 環境指令：
- docker run &amp;ndash;rm -it -v $(pwd):/src klakegg/hugo:0.83.1
- Windows 環境指令：
- docker run &amp;ndash;rm -it -v %cd%:/src klakegg/hugo:0.83.1
- 其後接 Hugo 的指令即可。
+ 建置、測試環境：docker 編譯：Github Action Hosting：Github  Hugo 建置、測試環境：klakegg/hugo 環境指令：
+docker run --rm -it -v $(pwd):/src klakegg/hugo:0.83.1 Windows 環境指令：
+docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1 其後接 Hugo 的指令即可。
 Themes：PaperMod https://github.com/adityatelange/hugo-PaperMod
 裡面的安裝指引可供參考</description>
     </item>
