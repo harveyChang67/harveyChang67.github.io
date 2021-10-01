@@ -5,7 +5,7 @@ draft: false
 ---
 
 嘗試用 Azure Pipeline 編譯 WinForms 的程式遇到一個問題：
->   「No hosted parallelism has been purchased or granted」
+> 「No hosted parallelism has been purchased or granted」
 
 直接依照指示到 [https://aka.ms/azpipelines-parallelism-request](https://aka.ms/azpipelines-parallelism-request)
 填寫完成後 1-2個工作日可以完成
