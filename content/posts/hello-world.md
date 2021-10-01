@@ -24,7 +24,13 @@ Windows 環境指令：
 docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1
 ```
 
-其後接 Hugo 的[指令](https://gohugo.io/getting-started/usage/)即可。
+其後接 Hugo 的[指令](https://gohugo.io/getting-started/usage/)即可，例如：
+
+新增 post：
+
+```cmd
+docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1 new posts/___.md
+```
 
 ## Themes：PaperMod
 
