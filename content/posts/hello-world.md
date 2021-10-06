@@ -26,11 +26,17 @@ docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1
 
 其後接 Hugo 的[指令](https://gohugo.io/getting-started/usage/)即可，例如：
 
-新增 post：
+- 新增 post：
 
-```cmd
-docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1 new posts/___.md
-```
+    ```cmd
+    docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1 new posts/___.md
+    ```
+
+- Local 執行 HUGO Server
+
+    ```cmd
+    docker run --rm -it -v %cd%:/src -p 1313:1313 klakegg/hugo:0.83.1 server
+    ```
 
 ## Themes：PaperMod
 
