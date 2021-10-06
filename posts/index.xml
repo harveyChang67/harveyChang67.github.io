@@ -5,7 +5,19 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Oct 2021 02:14:31 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 06:33:32 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Pipelines 編譯VS專案引用外部參考資源 － Libaray Securefile</title>
+      <link>https://harveyChang67.github.io/posts/azure-pipelines-libaray-securefile/</link>
+      <pubDate>Wed, 06 Oct 2021 06:33:32 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure-pipelines-libaray-securefile/</guid>
+      <description>若 WinForms 的專案有依些外部參考的 dll 在編譯時需要引入，數量有可能20-30個不等。 若因為並非這個專案內 Code Base所產生而不想放在 Git Repository 內，上去 Azure Devops 編譯可以這樣處理：
+  全部壓縮一包 .zip
+  上傳至「Library」   設定開放給 Pipeline 引用的權限   在 Pipelines 的 yaml 設定內加上 Download &amp;amp; Extract   編譯時可以加上參數指定這個暫時路徑：
+- task: VSBuild@1 inputs: solution: &amp;#39;**\*.csproj&amp;#39; platform: &amp;#39;AnyCPU&amp;#39; configuration: &amp;#39;$(BuildConfiguration)&amp;#39; msbuildArgs: &amp;#39;/p:referencepath=$(Agent.TempDirectory)/reference&amp;#39; clean: true   就可以完成了。</description>
+    </item>
+    
     <item>
       <title>Pipeline Error About Free Parallelism</title>
       <link>https://harveyChang67.github.io/posts/pipeline-error-about-free-parallelism/</link>
