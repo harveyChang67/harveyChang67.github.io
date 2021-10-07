@@ -5,7 +5,20 @@
     <link>https://harveyChang67.github.io/</link>
     <description>Recent content on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Oct 2021 06:33:32 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Oct 2021 05:59:56 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remove Tfs Connection From vs Solution</title>
+      <link>https://harveyChang67.github.io/posts/remove-tfs-connection-from-vs-solution/</link>
+      <pubDate>Thu, 07 Oct 2021 05:59:56 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/remove-tfs-connection-from-vs-solution/</guid>
+      <description>  刪除專案中 *.vssscc、*.vspscc 副檔名的檔案。
+  刪除 .sln 內的 GlobalSection(TeamFoundationVersionControl) 區塊。
+  內部的 *.__proj 檔案內的這幾項也必須刪除：
+&amp;lt;SccProjectName&amp;gt;XXX&amp;lt;/SccProjectName&amp;gt; &amp;lt;SccLocalPath&amp;gt;XXX&amp;lt;/SccLocalPath&amp;gt; &amp;lt;SccAuxPath&amp;gt;XXX&amp;lt;/SccAuxPath&amp;gt; &amp;lt;SccProvider&amp;gt;XXX&amp;lt;/SccProvider&amp;gt; 萬一實在太多了，請這條正規表示式 /^\s*(?:&amp;lt;Scc\w+&amp;gt;).+$/，使用 Notepad++ search &amp;amp; replace。
+  </description>
+    </item>
+    
     <item>
       <title>Azure Pipelines 編譯VS專案引用外部參考資源 － Libaray Securefile</title>
       <link>https://harveyChang67.github.io/posts/azure-pipelines-libaray-securefile/</link>
