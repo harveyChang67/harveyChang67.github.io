@@ -5,7 +5,19 @@
     <link>https://harveyChang67.github.io/</link>
     <description>Recent content on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Oct 2021 08:06:53 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 02:33:44 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compare: String Text or String Length?</title>
+      <link>https://harveyChang67.github.io/posts/dotnet_compare_string/</link>
+      <pubDate>Wed, 13 Oct 2021 02:33:44 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/dotnet_compare_string/</guid>
+      <description>近日看到一篇討論文章： c# string performance - what is faster to compare, string text or string length
+被接受的答案雖然蠻合理的，但有其他補充關於 C# String 的 source code 可以發現：
+都考量到了
+所以可以直接比對&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>Azure Pipelines Key Concepts</title>
       <link>https://harveyChang67.github.io/posts/azure-pipelines-key-concepts/</link>
