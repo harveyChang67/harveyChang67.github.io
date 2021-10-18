@@ -57,6 +57,7 @@ jobs:
 如果你的 YAML 在編譯那一段所參考的範例是以 `steps` 為主的，就必須先微調一下以 `stage` 來區隔，成為上面說的正確的結構。
 
 ## 更多資訊
+
 - [Specify jobs in your pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml)
 - [指定管線中的作業](https://docs.microsoft.com/zh-tw/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml)
 - [使用預先定義的變數](https://docs.microsoft.com/zh-tw/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml)

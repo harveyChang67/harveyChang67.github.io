@@ -16,6 +16,4 @@ draft: true
 
 ## TODO
 
-```
-http://terasolunaorg.github.io/guideline/5.4.1.RELEASE/en/ArchitectureInDetail/WebApplicationDetail/DoubleSubmitProtection.html
-```
+> http://terasolunaorg.github.io/guideline/5.4.1.RELEASE/en/ArchitectureInDetail/WebApplicationDetail/DoubleSubmitProtection.html
