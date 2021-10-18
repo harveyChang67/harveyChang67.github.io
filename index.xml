@@ -5,7 +5,17 @@
     <link>https://harveyChang67.github.io/</link>
     <description>Recent content on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Oct 2021 02:33:44 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 02:10:08 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>幾項關於 Azure Pipelines 的紀錄</title>
+      <link>https://harveyChang67.github.io/posts/notes_for_azure_pipelines/</link>
+      <pubDate>Mon, 18 Oct 2021 02:10:08 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/notes_for_azure_pipelines/</guid>
+      <description>幾項關於 Azure Pipelines 的紀錄：
+ Variables in trigger block is not supported. Maybe all YAML file of Pipelines are same in all branches.  </description>
+    </item>
+    
     <item>
       <title>Compare: String Text or String Length?</title>
       <link>https://harveyChang67.github.io/posts/dotnet_compare_string/</link>
