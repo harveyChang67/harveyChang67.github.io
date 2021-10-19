@@ -5,7 +5,18 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 02:10:08 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 09:07:56 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C# 處理大 Text 檔案的實驗比對</title>
+      <link>https://harveyChang67.github.io/posts/c-sharp-the-fastest-way-to-_-text/</link>
+      <pubDate>Tue, 19 Oct 2021 09:07:56 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/c-sharp-the-fastest-way-to-_-text/</guid>
+      <description>直觀寫法肯定是：
+ Readline() 每行比對、處理一次  這邊有兩個網頁做了 ＂充分的＂實驗比對，
+ C# .Net: Fastest Way to Read Text Files The Fastest Way to Read and Process Text Files using C# .Net  結論是， 把檔案都讀進 Array （相當於進記憶體）， 再運用平行運算處理完。</description>
+    </item>
+    
     <item>
       <title>幾項關於 Azure Pipelines 的紀錄</title>
       <link>https://harveyChang67.github.io/posts/notes_for_azure_pipelines/</link>
