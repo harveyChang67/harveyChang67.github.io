@@ -11,8 +11,8 @@ draft: false
 
 ## template
 
-- http://thecodemanual.pl/2020/04/02/build-templates-on-azure-devops.html
-- https://docs.microsoft.com/zh-tw/azure/devops/pipelines/process/templates?view=azure-devops
+- <http://thecodemanual.pl/2020/04/02/build-templates-on-azure-devops.html>
+- <https://docs.microsoft.com/zh-tw/azure/devops/pipelines/process/templates?view=azure-devops>
 
 ## detect CHANGED Dir to build & deploy
 
