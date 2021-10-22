@@ -5,7 +5,16 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 09:07:56 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Oct 2021 13:37:43 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VsCode 繪製 Draw.io</title>
+      <link>https://harveyChang67.github.io/posts/drwaio_vscode/</link>
+      <pubDate>Fri, 22 Oct 2021 13:37:43 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/drwaio_vscode/</guid>
+      <description> VSCode Extension: Draw.io Integration diagrams-net-azure-libraries  </description>
+    </item>
+    
     <item>
       <title>C# 處理大 Text 檔案的實驗比對</title>
       <link>https://harveyChang67.github.io/posts/c-sharp-the-fastest-way-to-_-text/</link>
