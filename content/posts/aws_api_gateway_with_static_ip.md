@@ -18,3 +18,9 @@ draft: false
 - Lambda 網路設定綁 Private Subnet
 
 可以在 AWS 另建 API Gateway + Resource Policy 限定IP 來測試。
+
+## References
+
+- [AWS Lambda functions with a static IP](https://matthewleak.medium.com/aws-lambda-functions-with-a-static-ip-89a3ada0b471)
+- [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
+- [Create a REST API with Lambda proxy integration](https://medium.com/javascript-in-plain-english/create-a-rest-api-with-lambda-proxy-integration-d33e4786349)
