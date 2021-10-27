@@ -21,6 +21,7 @@ draft: false
 
 ## References
 
+- [Setting a Static IP for AWS Lambda (or any AWS instance)](https://dev.to/alexanderdamiani/aws-lambda-with-a-static-ip-2g3l)
 - [AWS Lambda functions with a static IP](https://matthewleak.medium.com/aws-lambda-functions-with-a-static-ip-89a3ada0b471)
 - [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
 - [Create a REST API with Lambda proxy integration](https://medium.com/javascript-in-plain-english/create-a-rest-api-with-lambda-proxy-integration-d33e4786349)
