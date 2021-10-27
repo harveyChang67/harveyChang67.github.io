@@ -16,7 +16,7 @@
  外面 -&amp;gt; 固定 -&amp;gt; API Gateway -&amp;gt; &amp;hellip;
  使用情境若反過來的具體解答較少， 這邊分享一下測試過的方式。
  ENI + Static Public IP NAT Gateway Private Subnet -&amp;gt; NAT Gateway Lambda 網路設定綁 Private Subnet  可以在 AWS 另建 API Gateway + Resource Policy 限定IP 來測試。
-References  AWS Lambda functions with a static IP Tutorial: Build a Hello World REST API with Lambda proxy integration Create a REST API with Lambda proxy integration  </description>
+References  Setting a Static IP for AWS Lambda (or any AWS instance) AWS Lambda functions with a static IP Tutorial: Build a Hello World REST API with Lambda proxy integration Create a REST API with Lambda proxy integration  </description>
     </item>
     
     <item>
