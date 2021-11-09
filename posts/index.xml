@@ -5,7 +5,17 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Nov 2021 05:09:10 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 02:12:18 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Pipelines 設定 SSH 不用密碼的 Service Connection</title>
+      <link>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</link>
+      <pubDate>Tue, 09 Nov 2021 02:12:18 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</guid>
+      <description>因為 Azure Devops 的 Service Connection 上面沒有詳細說明，這邊紀錄下來。
+ 依照 安裝 OpenSSH 在 VM 上安裝 SSH Server 參考 OpenSSH 金鑰管理 建立使用者金鑰 務必參考這一段 部署公開金鑰  </description>
+    </item>
+    
     <item>
       <title>LINQ cheat sheet</title>
       <link>https://harveyChang67.github.io/posts/linq_cheat_sheet/</link>
