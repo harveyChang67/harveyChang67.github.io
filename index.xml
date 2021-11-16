@@ -5,7 +5,26 @@
     <link>https://harveyChang67.github.io/</link>
     <description>Recent content on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 02:12:18 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 08:50:14 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HRM Docker</title>
+      <link>https://harveyChang67.github.io/posts/hrm-docker/</link>
+      <pubDate>Tue, 16 Nov 2021 08:50:14 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/hrm-docker/</guid>
+      <description>vite.config.js 中加入：
+server: { // for HRM in Docker  host: &amp;#39;0.0.0.0&amp;#39;, watch: { usePolling: true }, } </description>
+    </item>
+    
+    <item>
+      <title>Husky &amp; Gitkraken</title>
+      <link>https://harveyChang67.github.io/posts/husky-gitkraken/</link>
+      <pubDate>Tue, 16 Nov 2021 03:20:56 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/husky-gitkraken/</guid>
+      <description>GitKraken v7.7.2 之後改個設定就好： Windows 上執行的話，需要指定 GitKraken 關於 『sh.exe』的 path。</description>
+    </item>
+    
     <item>
       <title>Azure Pipelines 設定 SSH 不用密碼的 Service Connection</title>
       <link>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</link>
