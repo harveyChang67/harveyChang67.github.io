@@ -5,7 +5,16 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 09:07:51 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 03:27:12 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webpack_learning</title>
+      <link>https://harveyChang67.github.io/posts/webpack_learning/</link>
+      <pubDate>Tue, 23 Nov 2021 03:27:12 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/webpack_learning/</guid>
+      <description> Webpack 3 quickstarter: Configure webpack from scratch 初学者应该看的 Webpack 完整指南（2020） 鐵人賽系列－Webpack  </description>
+    </item>
+    
     <item>
       <title>Vue &amp; IE 相容問題</title>
       <link>https://harveyChang67.github.io/posts/vue_ie/</link>
