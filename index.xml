@@ -5,7 +5,17 @@
     <link>https://harveyChang67.github.io/</link>
     <description>Recent content on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 23 Nov 2021 03:27:12 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Nov 2021 01:11:30 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure_subscriber</title>
+      <link>https://harveyChang67.github.io/posts/azure_subscriber/</link>
+      <pubDate>Fri, 26 Nov 2021 01:11:30 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_subscriber/</guid>
+      <description>購買 Azure 訂閱中 Devops 要注意的部分， 可以使用 Devops 的訂閱狀況有 3 種：
+ Azure basic Visual Studio Enterprise Visual Studio Professional  ps. 若您的訂閱都不是上列方案，卻可以使用 Repos、Pipelines MS Hosted 的話就恭喜了</description>
+    </item>
+    
     <item>
       <title>Webpack_learning</title>
       <link>https://harveyChang67.github.io/posts/webpack_learning/</link>
