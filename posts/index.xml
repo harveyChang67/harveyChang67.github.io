@@ -5,13 +5,84 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 09:00:13 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 06:14:32 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lock</title>
+      <link>https://harveyChang67.github.io/posts/lock/</link>
+      <pubDate>Thu, 27 Jan 2022 06:14:32 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/lock/</guid>
+      <description>Lock 概念 悲觀鎖（Pessimistic Lock） 預期每次都會遇到資源爭奪。
+共享鎖（Share Lock） 排他鎖（Exclusive Lock）
+作用範圍：
+  行鎖（row lock） FOR UPDATE、FOR UPDATE NO KEY、LOCK IN SHARE MODE
+  表鎖（table lock）
+SELECT SUM(..) FROM ..   樂觀鎖（Optimistic Lock） Optimistic Concurrency Control 每次存取都認為不會有別人來搶。
+CAS（比較與交換，Compare and swap）
+ 非阻塞同步（Non-blocking Synchronization）、無鎖程式設計演算法（ Non-blocking algorithm）
+ 適合：讀多寫少。 反之，將有很多的寫衝突造成等待
+ CAS有3個運算元  記憶體值V 舊的預期值A 要修改的新值B 當且僅當預期值A和記憶體值V相同時，將記憶體值V修改為B，否則什麼都不做。   整個CAS操作是一個原子操作 判斷作法  TimeStamp Version 待更新欄位：更新前可以拿要更新的欄位的舊值和資料庫的現值進行比對，沒有變化則更新  https://stackoverflow.com/a/62959208   所有欄位：相當於表鎖    implement Entity Framework Core</description>
+    </item>
+    
+    <item>
+      <title>Azure_devops_reader</title>
+      <link>https://harveyChang67.github.io/posts/azure_devops_reader/</link>
+      <pubDate>Wed, 26 Jan 2022 06:18:31 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_devops_reader/</guid>
+      <description>Azure Devops 內的 Git 權限設定，AZ-400會有考題問到關於 Pull、Push 所需要設定的權限。
+實際測試要有 「Contribute」 才能 Push。</description>
+    </item>
+    
+    <item>
+      <title>Deploy_local_git_to_azure_app_service</title>
+      <link>https://harveyChang67.github.io/posts/deploy_local_git_to_azure_app_service/</link>
+      <pubDate>Tue, 11 Jan 2022 01:49:14 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/deploy_local_git_to_azure_app_service/</guid>
+      <description>  Go Deployment in Menu then select Local Git item.   Configure credential.   Push Source to Git Repo @ Azure   </description>
+    </item>
+    
+    <item>
+      <title>Azure_portal_devops_config</title>
+      <link>https://harveyChang67.github.io/posts/azure_portal_devops_config/</link>
+      <pubDate>Sat, 01 Jan 2022 03:29:02 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_portal_devops_config/</guid>
+      <description>AAD &amp;gt; Enterprise Application &amp;gt; devops &amp;gt; User :   Azure Devops 側還是無法.取得訂閱資訊
+  就算由 Owner 建好 Service Connection 也無法讓 guest、member 直接使用，原因是操作 pipeline 的 account 對於訂閱的權限不夠。  從 Azure Portal 處給予該 account 至少 Reader 的角色   訂閱 &amp;gt; IAM &amp;gt; add role assignment
+ 但是此法有缺點，無法單一授權、指定 project 授權。</description>
+    </item>
+    
+    <item>
+      <title>Linux_run_sh_error</title>
+      <link>https://harveyChang67.github.io/posts/linux_run_sh_error/</link>
+      <pubDate>Wed, 29 Dec 2021 08:28:12 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/linux_run_sh_error/</guid>
+      <description>Linux 執行 .sh 後出現 Syntax Error
+ Syntax error: end of file unexpected (expecting “then”)
+ 問題不是語法錯誤，而是檔案編碼問題。
+解決辦法是：
+ dos2unix  或是 VSCode 右下方從 CRLF --&amp;gt; LF</description>
+    </item>
+    
+    <item>
+      <title>Azure_website</title>
+      <link>https://harveyChang67.github.io/posts/azure_website/</link>
+      <pubDate>Wed, 29 Dec 2021 07:29:51 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_website/</guid>
+      <description>Static Website Pages &amp;ndash;&amp;gt; Blob Ref：Host a static website in Azure Storage
+C#.Net API &amp;ndash;&amp;gt; Azure App Service TODO</description>
+    </item>
+    
     <item>
       <title>Cret Exam</title>
-      <link>https://harveyChang67.github.io/posts/cret-exam/</link>
+      <link>https://harveyChang67.github.io/posts/cert_exam/</link>
       <pubDate>Wed, 08 Dec 2021 09:00:13 +0000</pubDate>
       
-      <guid>https://harveyChang67.github.io/posts/cret-exam/</guid>
+      <guid>https://harveyChang67.github.io/posts/cert_exam/</guid>
       <description>記錄用
 證照考試因為接觸到的資源是以英文為主， 為了避免關鍵字句不習慣翻譯版本（甚至簡體中文）， 所以考試可能、預設採用英文， 但是英文閱讀能力不頂尖的可能會敗在情境題組， 如：一整頁說明現況、各類型需求後， 再往下才會看到真正的題目。
 實際應考發現， 各種英文閱讀考試技巧確實有用， 大概如下：

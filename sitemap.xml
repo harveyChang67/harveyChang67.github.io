@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harveyChang67.github.io/posts/cret-exam/</loc>
-    <lastmod>2021-12-08T09:00:13+00:00</lastmod>
+    <loc>https://harveyChang67.github.io/posts/lock/</loc>
+    <lastmod>2022-01-27T06:14:32+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/</loc>
-    <lastmod>2021-12-08T09:00:13+00:00</lastmod>
+    <lastmod>2022-01-27T06:14:32+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/</loc>
+    <lastmod>2022-01-27T06:14:32+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/azure_devops_reader/</loc>
+    <lastmod>2022-01-26T06:18:31+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/deploy_local_git_to_azure_app_service/</loc>
+    <lastmod>2022-01-11T01:49:14+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/azure_portal_devops_config/</loc>
+    <lastmod>2022-01-01T03:29:02+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/linux_run_sh_error/</loc>
+    <lastmod>2021-12-29T08:28:12+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/azure_website/</loc>
+    <lastmod>2021-12-29T07:29:51+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/cert_exam/</loc>
     <lastmod>2021-12-08T09:00:13+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/config_net_in_vmplayer/</loc>
