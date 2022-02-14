@@ -12,7 +12,8 @@
       <pubDate>Thu, 27 Jan 2022 06:14:32 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/posts/lock/</guid>
-      <description>Lock 概念 悲觀鎖（Pessimistic Lock） 預期每次都會遇到資源爭奪。
+      <description>單機鎖 TODO
+分布式鎖 相關  單機鎖&amp;ndash;&amp;gt;分布式鎖：架構面試題 #1, 線上交易的正確性 將 Redlock 有關的問題整理清楚：  如何做可靠的分布式锁，Redlock真的可行么 https://twgreatdaily.com/fGfHe28BMH2_cNUgKj2O.html     概念 悲觀鎖（Pessimistic Lock） 預期每次都會遇到資源爭奪。
 共享鎖（Share Lock） 排他鎖（Exclusive Lock）
 作用範圍：
   行鎖（row lock） FOR UPDATE、FOR UPDATE NO KEY、LOCK IN SHARE MODE
@@ -21,7 +22,7 @@ SELECT SUM(..) FROM ..   樂觀鎖（Optimistic Lock） Optimistic Concurrency C
 CAS（比較與交換，Compare and swap）
  非阻塞同步（Non-blocking Synchronization）、無鎖程式設計演算法（ Non-blocking algorithm）
  適合：讀多寫少。 反之，將有很多的寫衝突造成等待
- CAS有3個運算元  記憶體值V 舊的預期值A 要修改的新值B 當且僅當預期值A和記憶體值V相同時，將記憶體值V修改為B，否則什麼都不做。   整個CAS操作是一個原子操作 判斷作法  TimeStamp Version 待更新欄位：更新前可以拿要更新的欄位的舊值和資料庫的現值進行比對，沒有變化則更新  https://stackoverflow.com/a/62959208   所有欄位：相當於表鎖    implement Entity Framework Core</description>
+ CAS有3個運算元  記憶體值V 舊的預期值A 要修改的新值B 當且僅當預期值A和記憶體值V相同時，將記憶體值V修改為B，否則什麼都不做。   整個CAS操作是一個原子操作 判斷作法  TimeStamp Version 待更新欄位：更新前可以拿要更新的欄位的舊值和資料庫的現值進行比對，沒有變化則更新  https://stackoverflow.</description>
     </item>
     
     <item>
