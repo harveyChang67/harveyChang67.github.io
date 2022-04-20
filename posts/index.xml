@@ -5,7 +5,17 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Jan 2022 06:14:32 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 01:57:26 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac_on_aws_ec2</title>
+      <link>https://harveyChang67.github.io/posts/mac_on_aws_ec2/</link>
+      <pubDate>Wed, 20 Apr 2022 01:57:26 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/mac_on_aws_ec2/</guid>
+      <description>MAC x EC2 Reference: How to launch a macOS instance on Amazon EC2 (Mac instances)
+放新加坡，速度慢慢的</description>
+    </item>
+    
     <item>
       <title>Lock</title>
       <link>https://harveyChang67.github.io/posts/lock/</link>
