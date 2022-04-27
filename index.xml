@@ -5,7 +5,18 @@
     <link>https://harveyChang67.github.io/</link>
     <description>Recent content on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Apr 2022 11:21:06 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 11:28:49 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RepoDB_C#_Update</title>
+      <link>https://harveyChang67.github.io/posts/repodb_c#_update/</link>
+      <pubDate>Wed, 27 Apr 2022 11:28:49 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/repodb_c#_update/</guid>
+      <description>官網說明很簡短
+https://repodb.net/operation/update
+去 GitHub 上查閱 Source Code， 發現有其他使用方式， 如 傳入 QueryFiled。</description>
+    </item>
+    
     <item>
       <title>RepoDB_C#</title>
       <link>https://harveyChang67.github.io/posts/repodb_c#/</link>
