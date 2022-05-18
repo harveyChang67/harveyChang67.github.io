@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: true  # 找尋Hugo主題(true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -41,9 +41,9 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
-          github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
-          PUBLISH_BRANCH: gh-pages  # 推送到 gh-pages 分支
-          PUBLISH_DIR: ./public     # hugo 生成的目錄
-          commit_message: ${{ github.event.head_commit.message }}
+          token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
+          branch: gh-pages  # 推送到 gh-pages 分支
+          folder: ./public     # hugo 生成的目錄
+          commit-message: ${{ github.event.head_commit.message }}
