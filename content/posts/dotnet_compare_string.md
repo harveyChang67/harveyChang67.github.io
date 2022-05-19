@@ -2,6 +2,7 @@
 title: "Compare: String Text or String Length?"
 date: 2021-10-13T02:33:44Z
 draft: false
+category: ["C#"]
 ---
 
 近日看到一篇討論文章：
