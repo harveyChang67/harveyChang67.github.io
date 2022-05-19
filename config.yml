@@ -17,3 +17,14 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     defaultTheme: dark
     disableThemeToggle: false
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
