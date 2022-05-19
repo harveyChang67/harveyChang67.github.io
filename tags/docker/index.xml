@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>docker on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/docker/</link>
+    <description>Recent content in docker on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Oct 2021 04:36:32 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於幾個將 Win App 容器化的資訊</title>
+      <link>https://harveyChang67.github.io/posts/about_containerize_windows_app/</link>
+      <pubDate>Sun, 24 Oct 2021 04:36:32 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/about_containerize_windows_app/</guid>
+      <description>Youtube  Debug WPF and Winforms .NET in Linux on a Remote Machine Delivering Desktop Apps in Containers Containerize WINDOWS desktop apps with LINUX containers using WINE. Desktop Apps in Docker Containers  Docker  scottyhardy/docker-wine wine-x11-novnc-docker Run A windows application with docker  </description>
+    </item>
+    
+  </channel>
+</rss>

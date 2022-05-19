@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/aws/</link>
+    <description>Recent content in AWS on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Apr 2022 05:13:35 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aws_saa C02</title>
+      <link>https://harveyChang67.github.io/posts/aws_saa-c02/</link>
+      <pubDate>Wed, 06 Apr 2022 05:13:35 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/aws_saa-c02/</guid>
+      <description>Database  Amazon RDS NoSQL  權衡 可靠性 x 性能 下，兩類型對比：Aurora vs DynamoDB
+Amazon redshift 非資料庫 而是 Data Warehouse。 Data Warehouse</description>
+    </item>
+    
+    <item>
+      <title>AWS API Gateway 對外時能走固定IP的作法</title>
+      <link>https://harveyChang67.github.io/posts/aws_api_gateway_with_static_ip/</link>
+      <pubDate>Tue, 26 Oct 2021 09:18:39 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/aws_api_gateway_with_static_ip/</guid>
+      <description>大部分資料、使用情境是
+ 外面 -&amp;gt; 固定 -&amp;gt; API Gateway -&amp;gt; &amp;hellip;
+ 使用情境若反過來的具體解答較少， 這邊分享一下測試過的方式。
+ ENI + Static Public IP NAT Gateway Private Subnet -&amp;gt; NAT Gateway Lambda 網路設定綁 Private Subnet  可以在 AWS 另建 API Gateway + Resource Policy 限定IP 來測試。
+References  Setting a Static IP for AWS Lambda (or any AWS instance) AWS Lambda functions with a static IP Tutorial: Build a Hello World REST API with Lambda proxy integration Create a REST API with Lambda proxy integration  </description>
+    </item>
+    
+  </channel>
+</rss>

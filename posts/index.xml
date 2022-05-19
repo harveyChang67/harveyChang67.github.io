@@ -42,6 +42,16 @@ public class FMRMUSRT { [Primary] // Primary decoration  public string Id { get;
     </item>
     
     <item>
+      <title>Aws_saa C02</title>
+      <link>https://harveyChang67.github.io/posts/aws_saa-c02/</link>
+      <pubDate>Wed, 06 Apr 2022 05:13:35 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/aws_saa-c02/</guid>
+      <description>Database  Amazon RDS NoSQL  權衡 可靠性 x 性能 下，兩類型對比：Aurora vs DynamoDB
+Amazon redshift 非資料庫 而是 Data Warehouse。 Data Warehouse</description>
+    </item>
+    
+    <item>
       <title>Lock</title>
       <link>https://harveyChang67.github.io/posts/lock/</link>
       <pubDate>Thu, 27 Jan 2022 06:14:32 +0000</pubDate>

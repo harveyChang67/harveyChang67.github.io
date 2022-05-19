@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Azure on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/azure/</link>
+    <description>Recent content in Azure on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 26 Jan 2022 06:18:31 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure_devops_reader</title>
+      <link>https://harveyChang67.github.io/posts/azure_devops_reader/</link>
+      <pubDate>Wed, 26 Jan 2022 06:18:31 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_devops_reader/</guid>
+      <description>Azure Devops 內的 Git 權限設定，AZ-400會有考題問到關於 Pull、Push 所需要設定的權限。
+實際測試要有 「Contribute」 才能 Push。</description>
+    </item>
+    
+    <item>
+      <title>Azure_portal_devops_config</title>
+      <link>https://harveyChang67.github.io/posts/azure_portal_devops_config/</link>
+      <pubDate>Sat, 01 Jan 2022 03:29:02 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_portal_devops_config/</guid>
+      <description>AAD &amp;gt; Enterprise Application &amp;gt; devops &amp;gt; User :   Azure Devops 側還是無法.取得訂閱資訊
+  就算由 Owner 建好 Service Connection 也無法讓 guest、member 直接使用，原因是操作 pipeline 的 account 對於訂閱的權限不夠。  從 Azure Portal 處給予該 account 至少 Reader 的角色   訂閱 &amp;gt; IAM &amp;gt; add role assignment
+ 但是此法有缺點，無法單一授權、指定 project 授權。</description>
+    </item>
+    
+    <item>
+      <title>Azure_website</title>
+      <link>https://harveyChang67.github.io/posts/azure_website/</link>
+      <pubDate>Wed, 29 Dec 2021 07:29:51 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_website/</guid>
+      <description>Static Website Pages &amp;ndash;&amp;gt; Blob Ref：Host a static website in Azure Storage
+C#.Net API &amp;ndash;&amp;gt; Azure App Service TODO</description>
+    </item>
+    
+    <item>
+      <title>Azure_subscriber</title>
+      <link>https://harveyChang67.github.io/posts/azure_subscriber/</link>
+      <pubDate>Fri, 26 Nov 2021 01:11:30 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_subscriber/</guid>
+      <description>購買 Azure 訂閱中 Devops 要注意的部分， 可以使用 Devops 的訂閱狀況有 3 種：
+ Azure basic Visual Studio Enterprise Visual Studio Professional  ps. 若您的訂閱都不是上列方案，卻可以使用 Repos、Pipelines MS Hosted 的話就恭喜了</description>
+    </item>
+    
+    <item>
+      <title>Azure Pipelines 設定 SSH 不用密碼的 Service Connection</title>
+      <link>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</link>
+      <pubDate>Tue, 09 Nov 2021 02:12:18 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</guid>
+      <description>因為 Azure Devops 的 Service Connection 上面沒有詳細說明，這邊紀錄下來。
+ 依照 安裝 OpenSSH 在 VM 上安裝 SSH Server 參考 OpenSSH 金鑰管理 建立使用者金鑰 務必參考這一段 部署公開金鑰  </description>
+    </item>
+    
+    <item>
+      <title>Azure Pipelines Key Concepts</title>
+      <link>https://harveyChang67.github.io/posts/azure-pipelines-key-concepts/</link>
+      <pubDate>Fri, 08 Oct 2021 08:06:53 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure-pipelines-key-concepts/</guid>
+      <description>最近當了「Yaml 檔工程師」玩了 Azure Devops Pipelines，終於完成 Azure 編譯 Winforms 專案 並 部署到測試環境（VM）上面，過程中花了點時間找路，這邊紀錄一下。
+Key concepts for new Azure Pipelines 優先參考：
+ Key concepts for new Azure Pipelines users 新 Azure Pipelines 使用者的重要概念  文內地一張圖片有說明了 Azure Pipelines YAML 的結構階層關係，所以 YAML 檔案內的結構看啟回會像是這樣：
+trigger: pool: stages: - stage: A jobs: - job: 1 steps: - task: - stage: B jobs: - deployment: VMDeploy 這也能從 YAML 結構描述參考找到資訊印證。
+好玩的來了&amp;hellip;
+Deploy to VM 會從 Environment - virtual machine resource找到從 Pipeline deploy 到 VM 的方法，恰好裡面有一段：</description>
+    </item>
+    
+    <item>
+      <title>Azure Pipelines 編譯VS專案引用外部參考資源 － Libaray Securefile</title>
+      <link>https://harveyChang67.github.io/posts/azure-pipelines-libaray-securefile/</link>
+      <pubDate>Wed, 06 Oct 2021 06:33:32 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure-pipelines-libaray-securefile/</guid>
+      <description>若 WinForms 的專案有依些外部參考的 dll 在編譯時需要引入，數量有可能20-30個不等。 若因為並非這個專案內 Code Base所產生而不想放在 Git Repository 內，上去 Azure Devops 編譯可以這樣處理：
+  全部壓縮一包 .zip
+  上傳至「Library」   設定開放給 Pipeline 引用的權限   在 Pipelines 的 yaml 設定內加上 Download &amp;amp; Extract   編譯時可以加上參數指定這個暫時路徑：
+- task: VSBuild@1 inputs: solution: &amp;#39;**\*.csproj&amp;#39; platform: &amp;#39;AnyCPU&amp;#39; configuration: &amp;#39;$(BuildConfiguration)&amp;#39; msbuildArgs: &amp;#39;/p:referencepath=$(Agent.TempDirectory)/reference&amp;#39; clean: true   就可以完成了。</description>
+    </item>
+    
+    <item>
+      <title>Pipeline Error About Free Parallelism</title>
+      <link>https://harveyChang67.github.io/posts/pipeline-error-about-free-parallelism/</link>
+      <pubDate>Fri, 01 Oct 2021 02:14:31 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/pipeline-error-about-free-parallelism/</guid>
+      <description>嘗試用 Azure Pipeline 編譯 WinForms 的程式遇到一個問題：
+ 「No hosted parallelism has been purchased or granted」
+ 直接依照指示到 https://aka.ms/azpipelines-parallelism-request 填寫完成後 1-2個工作日可以完成 （操作步驟可以參考：【把玩Azure DevOps】Day8 CI/CD從這裡：設定第一個Pipeline(成功與失敗)）
+看國外論壇討論說，因為微軟發現有不少人趁著試用作些其他布樂見的事情而產生許多流量，因此在 2021 年初增加了這項限制的政策。</description>
+    </item>
+    
+  </channel>
+</rss>
