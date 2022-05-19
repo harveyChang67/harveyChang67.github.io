@@ -2,6 +2,7 @@
 title: "Azure_website"
 date: 2021-12-29T07:29:51Z
 draft: false
+tags: ["Azure"]
 ---
 
 ## Static Website Pages --> Blob

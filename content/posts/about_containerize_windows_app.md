@@ -2,6 +2,7 @@
 title: "關於幾個將 Win App 容器化的資訊"
 date: 2021-10-24T04:36:32Z
 draft: false
+tags: ["docker"]
 ---
 
 ## Youtube

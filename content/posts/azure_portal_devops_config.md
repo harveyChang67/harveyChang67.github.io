@@ -2,6 +2,7 @@
 title: "Azure_portal_devops_config"
 date: 2022-01-01T03:29:02Z
 draft: false
+tags: ["Azure"]
 ---
 
 1. AAD >  Enterprise Application > devops > User :

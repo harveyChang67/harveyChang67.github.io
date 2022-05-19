@@ -2,6 +2,7 @@
 title: "Aws S3 觸發另一個帳號的 Lambda"
 date: 2021-10-27T02:16:05Z
 draft: true
+tags: ["AWS"]
 ---
 
 ## Reference

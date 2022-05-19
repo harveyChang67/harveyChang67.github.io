@@ -2,6 +2,7 @@
 title: "Apache Dolphinscheduler Incubating 1.3"
 date: 2021-11-24T03:42:14Z
 draft: true
+tags: ["scheduler"]
 ---
 
 1. 下載 [apache-dolphinscheduler-incubating-1.3.4-src.zip](https://www.apache.org/dyn/closer.lua/dolphinscheduler/1.3.4/apache-dolphinscheduler-incubating-1.3.4-src.zip)

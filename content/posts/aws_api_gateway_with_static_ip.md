@@ -2,6 +2,7 @@
 title: "AWS API Gateway 對外時能走固定IP的作法"
 date: 2021-10-26T09:18:39Z
 draft: false
+tags: ["AWS"]
 ---
 
 大部分資料、使用情境是

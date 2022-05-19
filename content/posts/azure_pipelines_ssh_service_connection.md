@@ -2,6 +2,7 @@
 title: "Azure Pipelines 設定 SSH 不用密碼的 Service Connection"
 date: 2021-11-09T02:12:18Z
 draft: false
+tags: ["Azure"]
 ---
 
 因為 Azure Devops 的 Service Connection 上面沒有詳細說明，這邊紀錄下來。

@@ -2,6 +2,7 @@
 title: "Azure Pipelines Key Concepts"
 date: 2021-10-08T08:06:53Z
 draft: false
+tags: ["Azure"]
 ---
 
 最近當了「Yaml 檔工程師」玩了 Azure Devops Pipelines，終於完成 Azure 編譯 Winforms 專案 並 部署到測試環境（VM）上面，過程中花了點時間找路，這邊紀錄一下。

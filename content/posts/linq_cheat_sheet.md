@@ -2,6 +2,7 @@
 title: "LINQ cheat sheet"
 date: 2021-11-02T05:09:10Z
 draft: false
+tags: ["C#"]
 ---
 
 [LINQ Samples](https://linqsamples.com/)
