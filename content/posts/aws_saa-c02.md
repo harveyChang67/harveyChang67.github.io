@@ -1,13 +1,13 @@
 ---
 title: "Aws_saa C02"
 date: 2022-04-06T05:13:35Z
-draft: true
+draft: false
+tags: ["AWS"]
 ---
 
 ## Database
 - Amazon RDS
 - NoSQL
-
 
 權衡 可靠性 x 性能 下，兩類型對比：Aurora vs DynamoDB
 

@@ -2,6 +2,7 @@
 title: "Azure_subscriber"
 date: 2021-11-26T01:11:30Z
 draft: false
+tags: ["Azure"]
 ---
 
 購買 Azure 訂閱中 Devops 要注意的部分，

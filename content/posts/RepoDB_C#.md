@@ -2,6 +2,8 @@
 title: "RepoDB_C#"
 date: 2022-04-27T11:21:06Z
 draft: false
+category: [".NET"]
+tags: [".NET","C#"]
 ---
 
 

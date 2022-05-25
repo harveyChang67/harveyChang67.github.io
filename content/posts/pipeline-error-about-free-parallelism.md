@@ -2,6 +2,7 @@
 title: "Pipeline Error About Free Parallelism"
 date: 2021-10-01T02:14:31Z
 draft: false
+tags: ["Azure"]
 ---
 
 嘗試用 Azure Pipeline 編譯 WinForms 的程式遇到一個問題：

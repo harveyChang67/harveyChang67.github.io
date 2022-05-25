@@ -2,6 +2,7 @@
 title: "Azure Pipelines 編譯VS專案引用外部參考資源 － Libaray Securefile"
 date: 2021-10-06T06:33:32Z
 draft: false
+tags: ["Azure"]
 ---
 
 若 WinForms 的專案有依些外部參考的 dll 在編譯時需要引入，數量有可能20-30個不等。
