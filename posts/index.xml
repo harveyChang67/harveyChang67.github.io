@@ -5,7 +5,17 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 May 2022 07:19:28 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 13:49:37 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C_sharp_string2class</title>
+      <link>https://harveyChang67.github.io/posts/c_sharp_string2class/</link>
+      <pubDate>Wed, 25 May 2022 13:49:37 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/c_sharp_string2class/</guid>
+      <description>String to Class and then call Method var t = Type.GetType(&amp;#34;WebApplication1.Services.&amp;#34;+ServiceName+&amp;#34;, WebApplication1&amp;#34;); var service_instance = Activator.CreateInstance((t)); ServiceValues actual = (ServiceValues)service_instance.GetType().GetMethod(FunctionName).Invoke(service_instance, new object[] { temp, fm_repo }); 第一行可以參考後，再進一步優化程式。
+Console.WriteLine(typeof(TService).AssemblyQualifiedName); 有考慮進一步改寫為 function，參數可能是 className, methodName, 參數：new object[] { temp, fm_repo }</description>
+    </item>
+    
     <item>
       <title>C_sharp_big5</title>
       <link>https://harveyChang67.github.io/posts/c_sharp_big5/</link>
