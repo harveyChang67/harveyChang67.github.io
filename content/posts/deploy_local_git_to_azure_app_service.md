@@ -2,6 +2,7 @@
 title: "Deploy_local_git_to_azure_app_service"
 date: 2022-01-11T01:49:14Z
 draft: false
+tags: ["Azure"]
 ---
 
 1. Go `Deployment` in Menu then select `Local Git` item.
