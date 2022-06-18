@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Deploy_local_git_to_azure_app_service</title>
+      <link>https://harveyChang67.github.io/posts/deploy_local_git_to_azure_app_service/</link>
+      <pubDate>Tue, 11 Jan 2022 01:49:14 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/deploy_local_git_to_azure_app_service/</guid>
+      <description>  Go Deployment in Menu then select Local Git item.   Configure credential.   Push Source to Git Repo @ Azure   </description>
+    </item>
+    
+    <item>
       <title>Azure_portal_devops_config</title>
       <link>https://harveyChang67.github.io/posts/azure_portal_devops_config/</link>
       <pubDate>Sat, 01 Jan 2022 03:29:02 +0000</pubDate>
