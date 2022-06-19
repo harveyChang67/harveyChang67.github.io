@@ -5,7 +5,19 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 May 2022 13:49:37 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jun 2022 12:36:19 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure_pipelines_timezone</title>
+      <link>https://harveyChang67.github.io/posts/azure_pipelines_timezone/</link>
+      <pubDate>Sun, 19 Jun 2022 12:36:19 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_pipelines_timezone/</guid>
+      <description>使用 Azure Pipelines 編譯 dotnet 時遇到一個狀況記錄下來。
+專案中有使用了沒有綁定 TimeZone 的時間相關函式， 造成資料寫入 DB 時有偏差， （DB 已設定）
+可以嘗試設定 Agent 的 TimeZone 設定， （透過 PowerShell task）：
+Get-TimeZone Set-TimeZone &amp;#34;Taipei Standard Time&amp;#34; Get-TimeZone </description>
+    </item>
+    
     <item>
       <title>C_sharp_string2class</title>
       <link>https://harveyChang67.github.io/posts/c_sharp_string2class/</link>
