@@ -5,7 +5,17 @@
     <link>https://harveyChang67.github.io/</link>
     <description>Recent content on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Jun 2022 12:36:19 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 08:58:34 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure_pipelines_rdb</title>
+      <link>https://harveyChang67.github.io/posts/azure_pipelines_rdb/</link>
+      <pubDate>Sat, 25 Jun 2022 08:58:34 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_pipelines_rdb/</guid>
+      <description>從 Azure Pipelines 內更動 DB 的方式
+psql ....  SSH task &amp;ndash;&amp;gt; Postgres + SSH Docker task(ver.1) + Run postres docker &amp;ndash;&amp;gt; psql&amp;hellip;  </description>
+    </item>
+    
     <item>
       <title>Azure_pipelines_timezone</title>
       <link>https://harveyChang67.github.io/posts/azure_pipelines_timezone/</link>
@@ -14,8 +24,9 @@
       <guid>https://harveyChang67.github.io/posts/azure_pipelines_timezone/</guid>
       <description>使用 Azure Pipelines 編譯 dotnet 時遇到一個狀況記錄下來。
 專案中有使用了沒有綁定 TimeZone 的時間相關函式， 造成資料寫入 DB 時有偏差， （DB 已設定）
-可以嘗試設定 Agent 的 TimeZone 設定， （透過 PowerShell task）：
-Get-TimeZone Set-TimeZone &amp;#34;Taipei Standard Time&amp;#34; Get-TimeZone </description>
+可以嘗試設定 Agent 的 TimeZone 設定， （透過 PowerShell task）： Win:
+Get-TimeZone Set-TimeZone &amp;#34;Taipei Standard Time&amp;#34; Get-TimeZone Ubuntu:
+sudo timedatectl set-timezone Asia/Taipei </description>
     </item>
     
     <item>
