@@ -13,9 +13,16 @@ tags: ["Azure"]
 
 可以嘗試設定 Agent 的 TimeZone 設定，
 （透過 PowerShell task）：
+Win:
 
 ```bash
 Get-TimeZone
 Set-TimeZone "Taipei Standard Time"
 Get-TimeZone
+```
+
+Ubuntu:
+
+```bash
+sudo timedatectl set-timezone Asia/Taipei
 ```
