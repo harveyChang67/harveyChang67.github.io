@@ -1,11 +1,11 @@
 ---
-title: "I_ching_32"
+title: "I_ching_32 易經 恆卦"
 date: 2022-06-26T10:45:40Z
-draft:false
+draft: false
 tags: ["I_Ching"]
 ---
 
-## 恆卦
+## 易經－恆卦
 
 雷風相與，巽卦在內，震卦在外，分別為柔、剛的「動」，並各得其所。
 
