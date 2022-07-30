@@ -1,7 +1,8 @@
 ---
 title: "Vanced_yt_xiomi"
 date: 2022-02-01T09:55:06Z
-draft: true
+draft: false
+tags: ["3C"]
 ---
 
 # 小米、紅米 搭配使用 Vanced Youtube 無法撥放到 ChromeCast的解法

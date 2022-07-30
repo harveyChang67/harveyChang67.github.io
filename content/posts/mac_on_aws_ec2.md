@@ -2,6 +2,7 @@
 title: "Mac_on_aws_ec2"
 date: 2022-04-20T01:57:26Z
 draft: false
+tags: ["AWS"]
 ---
 
 # MAC x EC2

@@ -2,6 +2,7 @@
 title: "VsCode 繪製 Draw.io"
 date: 2021-10-22T13:37:43Z
 draft: false
+tags: ["misc"]
 ---
 
 - VSCode Extension: Draw.io Integration

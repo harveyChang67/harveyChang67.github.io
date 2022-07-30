@@ -2,6 +2,7 @@
 title: "Remove Tfs Connection From vs Solution"
 date: 2021-10-07T05:59:56Z
 draft: false
+tags: ["misc"]
 ---
 
 1. 刪除專案中 `*.vssscc`、`*.vspscc` 副檔名的檔案。

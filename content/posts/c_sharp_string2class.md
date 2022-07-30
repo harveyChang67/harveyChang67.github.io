@@ -2,6 +2,7 @@
 title: "C_sharp_string2class"
 date: 2022-05-25T13:49:37Z
 draft: false
+tags: ["C#"]
 ---
 
 ## String to Class and then call Method

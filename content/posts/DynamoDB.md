@@ -2,6 +2,7 @@
 title: "關於 DynamoDB"
 date: 2022-02-11T09:19:38Z
 draft: true
+tags: ["AWS"]
 ---
 
 - 貴

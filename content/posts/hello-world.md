@@ -2,6 +2,7 @@
 title: "Hello World"
 date: 2021-09-25T07:26:54Z
 draft: false
+tags: ["misc"]
 ---
 
 [Hugo](https://github.com/gohugoio/hugo) + GitHub 的方式架設簡單的 Blog 很有趣，這邊紀錄幾個資訊。

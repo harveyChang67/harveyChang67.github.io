@@ -2,6 +2,7 @@
 title: "Prevent Duplicate Submissions"
 date: 2021-10-05T03:53:29Z
 draft: true
+tags: ["Architecture"]
 ---
 
 ## Disable Submit Button after first click

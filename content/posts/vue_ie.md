@@ -2,7 +2,7 @@
 title: "Vue & IE 相容問題"
 date: 2021-11-18T09:07:51Z
 draft: false
-tags: ["vue.js"]
+tags: ["vue.js", "FrontEnd"]
 ---
 
 ## IE8

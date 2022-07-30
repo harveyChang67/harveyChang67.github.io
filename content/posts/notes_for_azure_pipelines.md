@@ -2,6 +2,7 @@
 title: "幾項關於 Azure Pipelines 的紀錄"
 date: 2021-10-18T02:10:08Z
 draft: false
+tags: ["Azure"]
 ---
 
 ## 基本原則
