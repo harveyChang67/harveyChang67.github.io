@@ -2,6 +2,7 @@
 title: "Azure_pipelines_rdb"
 date: 2022-06-25T08:58:34Z
 draft: false
+categories: ["Azure"]
 tags: ["Azure"]
 ---
 

@@ -2,6 +2,7 @@
 title: "Pipeline Error About Free Parallelism"
 date: 2021-10-01T02:14:31Z
 draft: false
+categories: ["Azure"]
 tags: ["Azure"]
 ---
 

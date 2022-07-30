@@ -2,6 +2,7 @@
 title: "Aws_saa C02"
 date: 2022-04-06T05:13:35Z
 draft: false
+categories: ["AWS"]
 tags: ["AWS"]
 ---
 

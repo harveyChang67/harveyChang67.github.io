@@ -2,6 +2,7 @@
 title: "Azure_devops_reader"
 date: 2022-01-26T06:18:31Z
 draft: false
+categories: ["Azure"]
 tags: ["Azure"]
 ---
 

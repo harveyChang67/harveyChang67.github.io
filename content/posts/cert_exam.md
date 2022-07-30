@@ -2,7 +2,7 @@
 title: "Cret Exam"
 date: 2021-12-08T09:00:13Z
 draft: false
-tags: ["misc"]
+categories: ["misc"]
 ---
 
 `記錄用`

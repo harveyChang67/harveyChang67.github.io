@@ -2,7 +2,7 @@
 title: "Husky & Gitkraken"
 date: 2021-11-16T03:20:56Z
 draft: false
-tags: ["misc"]
+categories: ["misc"]
 ---
 
 GitKraken v7.7.2 之後改個設定就好：

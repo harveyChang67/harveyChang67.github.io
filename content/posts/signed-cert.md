@@ -2,7 +2,7 @@
 title: "Signed Cert"
 date: 2021-11-25T07:35:29Z
 draft: false
-tags: ["misc"]
+categories: ["misc"]
 ---
 
 ## 產生並信任你自己的憑證

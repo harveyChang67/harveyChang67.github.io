@@ -2,7 +2,7 @@
 title: "Linux_run_sh_error"
 date: 2021-12-29T08:28:12Z
 draft: false
-tags: ["misc"]
+categories: ["misc"]
 ---
 
 Linux 執行 .sh 後出現 Syntax Error

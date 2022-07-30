@@ -2,6 +2,7 @@
 title: "About_career"
 date: 2022-07-26T01:10:54Z
 draft: true
+categories: ["misc"]
 ---
 
 不禁思考「為什麼要加入理想的工作環境？」

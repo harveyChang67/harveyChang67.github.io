@@ -2,6 +2,7 @@
 title: "I_ching_18 蠱卦 (山風蠱)"
 date: 2022-06-26T12:20:51Z
 draft: true
+categories: ["易經"]
 tags: ["I_Ching"]
 ---
 

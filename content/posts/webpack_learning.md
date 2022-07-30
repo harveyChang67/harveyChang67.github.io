@@ -2,7 +2,8 @@
 title: "Webpack_learning"
 date: 2021-11-23T03:27:12Z
 draft: false
-tags: ["FrontEnd"]
+categories: ["FrontEnd"]
+tags: ["webpack"]
 ---
 
 - [Webpack 3 quickstarter: Configure webpack from scratch](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)

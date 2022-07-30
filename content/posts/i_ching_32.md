@@ -2,6 +2,7 @@
 title: "I_ching_32 易經 恆卦"
 date: 2022-06-26T10:45:40Z
 draft: false
+categories: ["易經"]
 tags: ["I_Ching"]
 ---
 
