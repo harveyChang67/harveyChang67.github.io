@@ -2,7 +2,7 @@
 title: "C_sharp_big5"
 date: 2022-05-18T07:19:28Z
 draft: false
-category: ["C#"]
+categories: ["C#"]
 tags: ["C#"]
 ---
 

@@ -2,7 +2,7 @@
 title: "C# 處理大 Text 檔案的實驗比對"
 date: 2021-10-19T09:07:56Z
 draft: false
-category: ["C#"]
+categories: ["C#"]
 tags: ["C#"]
 ---
 
