@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>.NET on 隨筆</title>
+    <link>https://harveyChang67.github.io/categories/.net/</link>
+    <description>Recent content in .NET on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Apr 2022 11:21:06 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RepoDB_C#</title>
+      <link>https://harveyChang67.github.io/posts/repodb_c#/</link>
+      <pubDate>Wed, 27 Apr 2022 11:21:06 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/repodb_c#/</guid>
+      <description>RepoDB 在 Generic Repository Pattern 中很好用， 免去使用 Dapper 去自建 SQL 產生器， 但是有幾個限制 RepoDB Limitations， 其中一個令人訝異 -&amp;gt; Composite Keys。
+Composite Keys RepoDB 只會處理 1 個 Primary Key&amp;hellip;. 這邊紀錄兩個相關的資訊
+Update + condition termsList.Add( new QueryField(&amp;#39;Id&amp;#39;, Operation.Equal, &amp;#39;10095&amp;#39;) ); termsList.Add( new QueryField(&amp;#39;Name&amp;#39;, Operation.Equal, &amp;#39;John&amp;#39;) ); ret = dbConn.Update(entity, new QueryGroup(termsList, Conjunction.And)); Primary Properties Model 中標註 Mapping，
+public class FMRMUSRT { [Primary] // Primary decoration  public string Id { get; set; } [Primary] // Primary decoration  public string item_cd { get; set; } public string?</description>
+    </item>
+    
+  </channel>
+</rss>

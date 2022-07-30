@@ -4,6 +4,25 @@
     <title>Categories on 隨筆</title>
     <link>https://harveyChang67.github.io/categories/</link>
     <description>Recent content in Categories on 隨筆</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://harveyChang67.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 May 2022 07:19:28 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>https://harveyChang67.github.io/categories/c#/</link>
+      <pubDate>Wed, 18 May 2022 07:19:28 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET</title>
+      <link>https://harveyChang67.github.io/categories/.net/</link>
+      <pubDate>Wed, 27 Apr 2022 11:21:06 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/.net/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
