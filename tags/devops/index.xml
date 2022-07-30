@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Devops on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/devops/</link>
+    <description>Recent content in Devops on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Nov 2021 02:12:18 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Pipelines 設定 SSH 不用密碼的 Service Connection</title>
+      <link>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</link>
+      <pubDate>Tue, 09 Nov 2021 02:12:18 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</guid>
+      <description>因為 Azure Devops 的 Service Connection 上面沒有詳細說明，這邊紀錄下來。
+ 依照 安裝 OpenSSH 在 VM 上安裝 SSH Server 參考 OpenSSH 金鑰管理 建立使用者金鑰 務必參考這一段 部署公開金鑰  </description>
+    </item>
+    
+  </channel>
+</rss>

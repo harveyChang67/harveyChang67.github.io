@@ -20,6 +20,17 @@ System.Text.Encoding encoding = System.Text.Encoding.GetEncoding(950); string te
     </item>
     
     <item>
+      <title>LINQ cheat sheet</title>
+      <link>https://harveyChang67.github.io/posts/linq_cheat_sheet/</link>
+      <pubDate>Tue, 02 Nov 2021 05:09:10 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/linq_cheat_sheet/</guid>
+      <description>LINQ Samples
+101 LINQ Samples
+LINQ: Query Comprehension Syntax</description>
+    </item>
+    
+    <item>
       <title>C# 處理大 Text 檔案的實驗比對</title>
       <link>https://harveyChang67.github.io/posts/c-sharp-the-fastest-way-to-_-text/</link>
       <pubDate>Tue, 19 Oct 2021 09:07:56 +0000</pubDate>

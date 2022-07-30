@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vite on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/vite/</link>
+    <description>Recent content in vite on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Nov 2021 08:50:14 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/vite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HRM Docker</title>
+      <link>https://harveyChang67.github.io/posts/hrm-docker/</link>
+      <pubDate>Tue, 16 Nov 2021 08:50:14 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/hrm-docker/</guid>
+      <description>vite.config.js 中加入：
+server: { // for HRM in Docker  host: &amp;#39;0.0.0.0&amp;#39;, watch: { usePolling: true }, } </description>
+    </item>
+    
+  </channel>
+</rss>

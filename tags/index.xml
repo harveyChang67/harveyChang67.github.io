@@ -52,38 +52,20 @@
     </item>
     
     <item>
-      <title>3C</title>
-      <link>https://harveyChang67.github.io/tags/3c/</link>
-      <pubDate>Tue, 01 Feb 2022 09:55:06 +0000</pubDate>
+      <title>EC2</title>
+      <link>https://harveyChang67.github.io/tags/ec2/</link>
+      <pubDate>Wed, 20 Apr 2022 01:57:26 +0000</pubDate>
       
-      <guid>https://harveyChang67.github.io/tags/3c/</guid>
+      <guid>https://harveyChang67.github.io/tags/ec2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Architecture</title>
-      <link>https://harveyChang67.github.io/tags/architecture/</link>
-      <pubDate>Thu, 27 Jan 2022 06:14:32 +0000</pubDate>
-      
-      <guid>https://harveyChang67.github.io/tags/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misc</title>
-      <link>https://harveyChang67.github.io/tags/misc/</link>
-      <pubDate>Wed, 29 Dec 2021 08:28:12 +0000</pubDate>
-      
-      <guid>https://harveyChang67.github.io/tags/misc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FrontEnd</title>
-      <link>https://harveyChang67.github.io/tags/frontend/</link>
+      <title>webpack</title>
+      <link>https://harveyChang67.github.io/tags/webpack/</link>
       <pubDate>Tue, 23 Nov 2021 03:27:12 +0000</pubDate>
       
-      <guid>https://harveyChang67.github.io/tags/frontend/</guid>
+      <guid>https://harveyChang67.github.io/tags/webpack/</guid>
       <description></description>
     </item>
     
@@ -93,6 +75,33 @@
       <pubDate>Thu, 18 Nov 2021 09:07:51 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/tags/vue.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vite</title>
+      <link>https://harveyChang67.github.io/tags/vite/</link>
+      <pubDate>Tue, 16 Nov 2021 08:50:14 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/tags/vite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://harveyChang67.github.io/tags/devops/</link>
+      <pubDate>Tue, 09 Nov 2021 02:12:18 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambda</title>
+      <link>https://harveyChang67.github.io/tags/lambda/</link>
+      <pubDate>Thu, 28 Oct 2021 07:33:28 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/tags/lambda/</guid>
       <description></description>
     </item>
     

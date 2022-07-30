@@ -5,7 +5,25 @@
     <link>https://harveyChang67.github.io/categories/</link>
     <description>Recent content in Categories on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 May 2022 07:19:28 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 10:45:40 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>易經</title>
+      <link>https://harveyChang67.github.io/categories/%E6%98%93%E7%B6%93/</link>
+      <pubDate>Sun, 26 Jun 2022 10:45:40 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/%E6%98%93%E7%B6%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://harveyChang67.github.io/categories/azure/</link>
+      <pubDate>Sat, 25 Jun 2022 08:58:34 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/azure/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>C#</title>
       <link>https://harveyChang67.github.io/categories/c#/</link>
@@ -21,6 +39,51 @@
       <pubDate>Wed, 27 Apr 2022 11:21:06 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/categories/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://harveyChang67.github.io/categories/aws/</link>
+      <pubDate>Wed, 20 Apr 2022 01:57:26 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3C</title>
+      <link>https://harveyChang67.github.io/categories/3c/</link>
+      <pubDate>Tue, 01 Feb 2022 09:55:06 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/3c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://harveyChang67.github.io/categories/architecture/</link>
+      <pubDate>Thu, 27 Jan 2022 06:14:32 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://harveyChang67.github.io/categories/misc/</link>
+      <pubDate>Wed, 29 Dec 2021 08:28:12 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FrontEnd</title>
+      <link>https://harveyChang67.github.io/categories/frontend/</link>
+      <pubDate>Tue, 23 Nov 2021 03:27:12 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/frontend/</guid>
       <description></description>
     </item>
     

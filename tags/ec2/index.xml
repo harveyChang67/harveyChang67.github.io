@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EC2 on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/ec2/</link>
+    <description>Recent content in EC2 on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Apr 2022 01:57:26 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/ec2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac_on_aws_ec2</title>
+      <link>https://harveyChang67.github.io/posts/mac_on_aws_ec2/</link>
+      <pubDate>Wed, 20 Apr 2022 01:57:26 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/mac_on_aws_ec2/</guid>
+      <description>MAC x EC2 Reference: How to launch a macOS instance on Amazon EC2 (Mac instances)
+放新加坡，速度慢慢的</description>
+    </item>
+    
+  </channel>
+</rss>

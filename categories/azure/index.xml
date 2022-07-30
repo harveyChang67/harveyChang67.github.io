@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Azure on 隨筆</title>
+    <link>https://harveyChang67.github.io/categories/azure/</link>
+    <description>Recent content in Azure on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 25 Jun 2022 08:58:34 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure_pipelines_rdb</title>
+      <link>https://harveyChang67.github.io/posts/azure_pipelines_rdb/</link>
+      <pubDate>Sat, 25 Jun 2022 08:58:34 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_pipelines_rdb/</guid>
+      <description>從 Azure Pipelines 內更動 DB 的方式
+psql ....  SSH task &amp;ndash;&amp;gt; Postgres + SSH Docker task(ver.1) + Run postres docker &amp;ndash;&amp;gt; psql&amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>Azure_devops_reader</title>
+      <link>https://harveyChang67.github.io/posts/azure_devops_reader/</link>
+      <pubDate>Wed, 26 Jan 2022 06:18:31 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_devops_reader/</guid>
+      <description>Azure Devops 內的 Git 權限設定，AZ-400會有考題問到關於 Pull、Push 所需要設定的權限。
+實際測試要有 「Contribute」 才能 Push。</description>
+    </item>
+    
+    <item>
+      <title>Deploy_local_git_to_azure_app_service</title>
+      <link>https://harveyChang67.github.io/posts/deploy_local_git_to_azure_app_service/</link>
+      <pubDate>Tue, 11 Jan 2022 01:49:14 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/deploy_local_git_to_azure_app_service/</guid>
+      <description>  Go Deployment in Menu then select Local Git item.   Configure credential.   Push Source to Git Repo @ Azure   </description>
+    </item>
+    
+    <item>
+      <title>Azure Pipelines 設定 SSH 不用密碼的 Service Connection</title>
+      <link>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</link>
+      <pubDate>Tue, 09 Nov 2021 02:12:18 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</guid>
+      <description>因為 Azure Devops 的 Service Connection 上面沒有詳細說明，這邊紀錄下來。
+ 依照 安裝 OpenSSH 在 VM 上安裝 SSH Server 參考 OpenSSH 金鑰管理 建立使用者金鑰 務必參考這一段 部署公開金鑰  </description>
+    </item>
+    
+    <item>
+      <title>幾項關於 Azure Pipelines 的紀錄</title>
+      <link>https://harveyChang67.github.io/posts/notes_for_azure_pipelines/</link>
+      <pubDate>Mon, 18 Oct 2021 02:10:08 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/notes_for_azure_pipelines/</guid>
+      <description>基本原則  Variables in trigger block is not supported. Maybe all YAML file of Pipelines are same in all branches.  template  http://thecodemanual.pl/2020/04/02/build-templates-on-azure-devops.html https://docs.microsoft.com/zh-tw/azure/devops/pipelines/process/templates?view=azure-devops  detect CHANGED Dir to build &amp;amp; deploy  coding in PowerShell to detect What files are changed, get DIR and combine ARRAY build &amp;amp; deploy via FACTORY PATTERN  References:
+ https://stackoverflow.com/questions/54541602/pass-array-as-inputs-to-azure-devops-yaml-task https://stackoverflow.com/questions/62835740/loops-and-arrays-in-azure-devops-pipelines https://stackoverflow.com/questions/53227343/triggering-azure-devops-builds-based-on-changes-to-sub-folders https://stackoverflow.com/questions/65088433/how-to-get-only-changed-files-using-azure-devops-pipelines https://stackoverflow.com/questions/67483194/pass-array-of-files-into-the-parameter-of-awscli1-task/67498247#67498247 https://stackoverflow.com/questions/68504910/can-i-loop-an-azure-pipelines-task-on-a-runtime-array-variable-instead-of-an-arr https://docs.microsoft.com/zh-tw/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.1#adding-to-arrays  開始 try 的：
+variables: f1Flag: false f2Flag: false trigger: branches: include: - master # paths: # include: # - &amp;#34;test_pipelines/*&amp;#34; steps: - powershell: |## get the changed files $files=$(git diff-tree --no-commit-id --name-only -r $(Build.</description>
+    </item>
+    
+    <item>
+      <title>Pipeline Error About Free Parallelism</title>
+      <link>https://harveyChang67.github.io/posts/pipeline-error-about-free-parallelism/</link>
+      <pubDate>Fri, 01 Oct 2021 02:14:31 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/pipeline-error-about-free-parallelism/</guid>
+      <description>嘗試用 Azure Pipeline 編譯 WinForms 的程式遇到一個問題：
+ 「No hosted parallelism has been purchased or granted」
+ 直接依照指示到 https://aka.ms/azpipelines-parallelism-request 填寫完成後 1-2個工作日可以完成 （操作步驟可以參考：【把玩Azure DevOps】Day8 CI/CD從這裡：設定第一個Pipeline(成功與失敗)）
+看國外論壇討論說，因為微軟發現有不少人趁著試用作些其他布樂見的事情而產生許多流量，因此在 2021 年初增加了這項限制的政策。</description>
+    </item>
+    
+  </channel>
+</rss>

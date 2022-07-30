@@ -11,6 +11,9 @@
     <loc>https://harveyChang67.github.io/</loc>
     <lastmod>2022-07-21T23:04:08+00:00</lastmod>
   </url><url>
+    <loc>https://harveyChang67.github.io/categories/</loc>
+    <lastmod>2022-06-26T10:45:40+00:00</lastmod>
+  </url><url>
     <loc>https://harveyChang67.github.io/tags/i_ching/</loc>
     <lastmod>2022-06-26T10:45:40+00:00</lastmod>
   </url><url>
@@ -20,7 +23,13 @@
     <loc>https://harveyChang67.github.io/tags/</loc>
     <lastmod>2022-06-26T10:45:40+00:00</lastmod>
   </url><url>
+    <loc>https://harveyChang67.github.io/categories/%E6%98%93%E7%B6%93/</loc>
+    <lastmod>2022-06-26T10:45:40+00:00</lastmod>
+  </url><url>
     <loc>https://harveyChang67.github.io/tags/azure/</loc>
+    <lastmod>2022-06-25T08:58:34+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/categories/azure/</loc>
     <lastmod>2022-06-25T08:58:34+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/azure_pipelines_rdb/</loc>
@@ -41,9 +50,6 @@
     <loc>https://harveyChang67.github.io/posts/c_sharp_big5/</loc>
     <lastmod>2022-05-18T07:19:28+00:00</lastmod>
   </url><url>
-    <loc>https://harveyChang67.github.io/categories/</loc>
-    <lastmod>2022-05-18T07:19:28+00:00</lastmod>
-  </url><url>
     <loc>https://harveyChang67.github.io/tags/.net/</loc>
     <lastmod>2022-04-27T11:21:06+00:00</lastmod>
   </url><url>
@@ -56,19 +62,25 @@
     <loc>https://harveyChang67.github.io/tags/aws/</loc>
     <lastmod>2022-04-20T01:57:26+00:00</lastmod>
   </url><url>
+    <loc>https://harveyChang67.github.io/categories/aws/</loc>
+    <lastmod>2022-04-20T01:57:26+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/ec2/</loc>
+    <lastmod>2022-04-20T01:57:26+00:00</lastmod>
+  </url><url>
     <loc>https://harveyChang67.github.io/posts/mac_on_aws_ec2/</loc>
     <lastmod>2022-04-20T01:57:26+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/aws_saa-c02/</loc>
     <lastmod>2022-04-06T05:13:35+00:00</lastmod>
   </url><url>
-    <loc>https://harveyChang67.github.io/tags/3c/</loc>
+    <loc>https://harveyChang67.github.io/categories/3c/</loc>
     <lastmod>2022-02-01T09:55:06+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/vanced_yt_xiomi/</loc>
     <lastmod>2022-02-01T09:55:06+00:00</lastmod>
   </url><url>
-    <loc>https://harveyChang67.github.io/tags/architecture/</loc>
+    <loc>https://harveyChang67.github.io/categories/architecture/</loc>
     <lastmod>2022-01-27T06:14:32+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/lock/</loc>
@@ -86,7 +98,7 @@
     <loc>https://harveyChang67.github.io/posts/linux_run_sh_error/</loc>
     <lastmod>2021-12-29T08:28:12+00:00</lastmod>
   </url><url>
-    <loc>https://harveyChang67.github.io/tags/misc/</loc>
+    <loc>https://harveyChang67.github.io/categories/misc/</loc>
     <lastmod>2021-12-29T08:28:12+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/azure_website/</loc>
@@ -104,7 +116,10 @@
     <loc>https://harveyChang67.github.io/posts/signed-cert/</loc>
     <lastmod>2021-11-25T07:35:29+00:00</lastmod>
   </url><url>
-    <loc>https://harveyChang67.github.io/tags/frontend/</loc>
+    <loc>https://harveyChang67.github.io/categories/frontend/</loc>
+    <lastmod>2021-11-23T03:27:12+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/webpack/</loc>
     <lastmod>2021-11-23T03:27:12+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/webpack_learning/</loc>
@@ -119,14 +134,23 @@
     <loc>https://harveyChang67.github.io/posts/hrm-docker/</loc>
     <lastmod>2021-11-16T08:50:14+00:00</lastmod>
   </url><url>
+    <loc>https://harveyChang67.github.io/tags/vite/</loc>
+    <lastmod>2021-11-16T08:50:14+00:00</lastmod>
+  </url><url>
     <loc>https://harveyChang67.github.io/posts/husky-gitkraken/</loc>
     <lastmod>2021-11-16T03:20:56+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/azure_pipelines_ssh_service_connection/</loc>
     <lastmod>2021-11-09T02:12:18+00:00</lastmod>
   </url><url>
+    <loc>https://harveyChang67.github.io/tags/devops/</loc>
+    <lastmod>2021-11-09T02:12:18+00:00</lastmod>
+  </url><url>
     <loc>https://harveyChang67.github.io/posts/linq_cheat_sheet/</loc>
     <lastmod>2021-11-02T05:09:10+00:00</lastmod>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/lambda/</loc>
+    <lastmod>2021-10-28T07:33:28+00:00</lastmod>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/proxy_on_lambda/</loc>
     <lastmod>2021-10-28T07:33:28+00:00</lastmod>
