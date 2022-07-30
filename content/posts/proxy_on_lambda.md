@@ -3,7 +3,7 @@ title: "Proxy_on_lambda"
 date: 2021-10-28T07:33:28Z
 draft: false
 categories: ["AWS"]
-tags :["AWS", "Lambda"]
+tags: ["AWS", "Lambda"]
 ---
 
 ## references
