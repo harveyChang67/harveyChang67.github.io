@@ -90,6 +90,17 @@ C#.Net API &amp;ndash;&amp;gt; Azure App Service TODO</description>
     </item>
     
     <item>
+      <title>幾項關於 Azure Pipelines 的紀錄</title>
+      <link>https://harveyChang67.github.io/posts/notes_for_azure_pipelines/</link>
+      <pubDate>Mon, 18 Oct 2021 02:10:08 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/notes_for_azure_pipelines/</guid>
+      <description>基本原則  Variables in trigger block is not supported. Maybe all YAML file of Pipelines are same in all branches.  template  http://thecodemanual.pl/2020/04/02/build-templates-on-azure-devops.html https://docs.microsoft.com/zh-tw/azure/devops/pipelines/process/templates?view=azure-devops  detect CHANGED Dir to build &amp;amp; deploy  coding in PowerShell to detect What files are changed, get DIR and combine ARRAY build &amp;amp; deploy via FACTORY PATTERN  References:
+ https://stackoverflow.com/questions/54541602/pass-array-as-inputs-to-azure-devops-yaml-task https://stackoverflow.com/questions/62835740/loops-and-arrays-in-azure-devops-pipelines https://stackoverflow.com/questions/53227343/triggering-azure-devops-builds-based-on-changes-to-sub-folders https://stackoverflow.com/questions/65088433/how-to-get-only-changed-files-using-azure-devops-pipelines https://stackoverflow.com/questions/67483194/pass-array-of-files-into-the-parameter-of-awscli1-task/67498247#67498247 https://stackoverflow.com/questions/68504910/can-i-loop-an-azure-pipelines-task-on-a-runtime-array-variable-instead-of-an-arr https://docs.microsoft.com/zh-tw/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.1#adding-to-arrays  開始 try 的：
+variables: f1Flag: false f2Flag: false trigger: branches: include: - master # paths: # include: # - &amp;#34;test_pipelines/*&amp;#34; steps: - powershell: |## get the changed files $files=$(git diff-tree --no-commit-id --name-only -r $(Build.</description>
+    </item>
+    
+    <item>
       <title>Azure Pipelines Key Concepts</title>
       <link>https://harveyChang67.github.io/posts/azure-pipelines-key-concepts/</link>
       <pubDate>Fri, 08 Oct 2021 08:06:53 +0000</pubDate>

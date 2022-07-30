@@ -113,6 +113,16 @@ Amazon redshift 非資料庫 而是 Data Warehouse。 Data Warehouse</descriptio
     </item>
     
     <item>
+      <title>Vanced_yt_xiomi</title>
+      <link>https://harveyChang67.github.io/posts/vanced_yt_xiomi/</link>
+      <pubDate>Tue, 01 Feb 2022 09:55:06 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/vanced_yt_xiomi/</guid>
+      <description>小米、紅米 搭配使用 Vanced Youtube 無法撥放到 ChromeCast的解法 降板！
+https://itechify.com/2021/10/10/unable-to-cast-youtube-vanced-on-tv-here-is-the-fix/</description>
+    </item>
+    
+    <item>
       <title>Lock</title>
       <link>https://harveyChang67.github.io/posts/lock/</link>
       <pubDate>Thu, 27 Jan 2022 06:14:32 +0000</pubDate>
@@ -218,6 +228,18 @@ C#.Net API &amp;ndash;&amp;gt; Azure App Service TODO</description>
     </item>
     
     <item>
+      <title>Signed Cert</title>
+      <link>https://harveyChang67.github.io/posts/signed-cert/</link>
+      <pubDate>Thu, 25 Nov 2021 07:35:29 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/signed-cert/</guid>
+      <description>產生並信任你自己的憑證 https://letsencrypt.org/zh-tw/docs/certificates-for-localhost/
+openssl req -x509 -out localhost.crt -keyout localhost.key \  -newkey rsa:2048 -nodes -sha256 \  -subj &amp;#39;/CN=localhost&amp;#39; -extensions EXT -config &amp;lt;( \  printf &amp;#34;[dn]\nCN=localhost\n[req]\ndistinguished_name = dn\n[EXT]\nsubjectAltName=DNS:localhost\nkeyUsage=digitalSignature\nextendedKeyUsage=serverAuth&amp;#34;) 也說了 minica
+2 https://gist.github.com/cecilemuller/9492b848eb8fe46d462abeb26656c4f8
+有些方法 還有 mkcert &amp;lt;&amp;ndash; 最方便</description>
+    </item>
+    
+    <item>
       <title>Webpack_learning</title>
       <link>https://harveyChang67.github.io/posts/webpack_learning/</link>
       <pubDate>Tue, 23 Nov 2021 03:27:12 +0000</pubDate>
@@ -273,6 +295,15 @@ server: { // for HRM in Docker  host: &amp;#39;0.0.0.0&amp;#39;, watch: { usePol
       <description>LINQ Samples
 101 LINQ Samples
 LINQ: Query Comprehension Syntax</description>
+    </item>
+    
+    <item>
+      <title>Proxy_on_lambda</title>
+      <link>https://harveyChang67.github.io/posts/proxy_on_lambda/</link>
+      <pubDate>Thu, 28 Oct 2021 07:33:28 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/proxy_on_lambda/</guid>
+      <description>references  Making Http Requests in a Node.js Lambda Function proxy-agent Configuring Proxies for Node.js  </description>
     </item>
     
     <item>

@@ -5,7 +5,17 @@
     <link>https://harveyChang67.github.io/tags/aws/</link>
     <description>Recent content in AWS on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Apr 2022 05:13:35 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 01:57:26 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac_on_aws_ec2</title>
+      <link>https://harveyChang67.github.io/posts/mac_on_aws_ec2/</link>
+      <pubDate>Wed, 20 Apr 2022 01:57:26 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/mac_on_aws_ec2/</guid>
+      <description>MAC x EC2 Reference: How to launch a macOS instance on Amazon EC2 (Mac instances)
+放新加坡，速度慢慢的</description>
+    </item>
+    
     <item>
       <title>Aws_saa C02</title>
       <link>https://harveyChang67.github.io/posts/aws_saa-c02/</link>
@@ -14,6 +24,15 @@
       <guid>https://harveyChang67.github.io/posts/aws_saa-c02/</guid>
       <description>Database  Amazon RDS NoSQL  權衡 可靠性 x 性能 下，兩類型對比：Aurora vs DynamoDB
 Amazon redshift 非資料庫 而是 Data Warehouse。 Data Warehouse</description>
+    </item>
+    
+    <item>
+      <title>Proxy_on_lambda</title>
+      <link>https://harveyChang67.github.io/posts/proxy_on_lambda/</link>
+      <pubDate>Thu, 28 Oct 2021 07:33:28 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/proxy_on_lambda/</guid>
+      <description>references  Making Http Requests in a Node.js Lambda Function proxy-agent Configuring Proxies for Node.js  </description>
     </item>
     
     <item>

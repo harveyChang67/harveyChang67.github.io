@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FrontEnd on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/frontend/</link>
+    <description>Recent content in FrontEnd on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Nov 2021 03:27:12 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webpack_learning</title>
+      <link>https://harveyChang67.github.io/posts/webpack_learning/</link>
+      <pubDate>Tue, 23 Nov 2021 03:27:12 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/webpack_learning/</guid>
+      <description> Webpack 3 quickstarter: Configure webpack from scratch 初学者应该看的 Webpack 完整指南（2020） 鐵人賽系列－Webpack  </description>
+    </item>
+    
+    <item>
+      <title>Vue &amp; IE 相容問題</title>
+      <link>https://harveyChang67.github.io/posts/vue_ie/</link>
+      <pubDate>Thu, 18 Nov 2021 09:07:51 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/vue_ie/</guid>
+      <description>IE8  Vue3 確定不支援 Vue2透過打包工具（babel）+運氣 可支援，有機會因為功能、使用lib較單純而可通過測試。  IE11  Vue3 原先可以，後來被移除 Vue2.x可以  Refs  https://stackoverflow.com/a/64837153 https://github.com/Ivocin/Translation/blob/master/Docs/0000-vue3-ie11-support.md https://v3.cn.vuejs.org/guide/migration/migration-build.html#%E9%A2%84%E6%9C%9F%E7%94%A8%E4%BE%8B  </description>
+    </item>
+    
+    <item>
+      <title>HRM Docker</title>
+      <link>https://harveyChang67.github.io/posts/hrm-docker/</link>
+      <pubDate>Tue, 16 Nov 2021 08:50:14 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/hrm-docker/</guid>
+      <description>vite.config.js 中加入：
+server: { // for HRM in Docker  host: &amp;#39;0.0.0.0&amp;#39;, watch: { usePolling: true }, } </description>
+    </item>
+    
+  </channel>
+</rss>
