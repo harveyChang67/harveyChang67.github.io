@@ -28,3 +28,8 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
