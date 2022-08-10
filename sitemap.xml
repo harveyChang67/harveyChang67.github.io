@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harveyChang67.github.io/posts/about_hiring_n_recruiting/</loc>
-    <lastmod>2022-07-21T23:04:08+00:00</lastmod>
+    <loc>https://harveyChang67.github.io/posts/moongodb_data_modeling/</loc>
+    <lastmod>2022-08-10T07:03:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/</loc>
-    <lastmod>2022-07-21T23:04:08+00:00</lastmod>
+    <lastmod>2022-08-10T07:03:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://harveyChang67.github.io/</loc>
+    <lastmod>2022-08-10T07:03:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/about_hiring_n_recruiting/</loc>
     <lastmod>2022-07-21T23:04:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
