@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ACR on 隨筆</title>
+    <link>https://harveyChang67.github.io/tags/acr/</link>
+    <description>Recent content in ACR on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Aug 2022 08:58:34 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/acr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy docker image to Azure</title>
+      <link>https://harveyChang67.github.io/posts/azure_container/</link>
+      <pubDate>Mon, 22 Aug 2022 08:58:34 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/azure_container/</guid>
+      <description>將 Docker 映像部署至 Azure 容器執行個體</description>
+    </item>
+    
+  </channel>
+</rss>

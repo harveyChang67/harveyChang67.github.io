@@ -5,22 +5,49 @@
     <link>https://harveyChang67.github.io/tags/</link>
     <description>Recent content in Tags on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Jun 2022 10:45:40 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 08:58:34 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I_Ching</title>
-      <link>https://harveyChang67.github.io/tags/i_ching/</link>
-      <pubDate>Sun, 26 Jun 2022 10:45:40 +0000</pubDate>
+      <title>ACI</title>
+      <link>https://harveyChang67.github.io/tags/aci/</link>
+      <pubDate>Mon, 22 Aug 2022 08:58:34 +0000</pubDate>
       
-      <guid>https://harveyChang67.github.io/tags/i_ching/</guid>
+      <guid>https://harveyChang67.github.io/tags/aci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACR</title>
+      <link>https://harveyChang67.github.io/tags/acr/</link>
+      <pubDate>Mon, 22 Aug 2022 08:58:34 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/tags/acr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure</title>
       <link>https://harveyChang67.github.io/tags/azure/</link>
-      <pubDate>Sat, 25 Jun 2022 08:58:34 +0000</pubDate>
+      <pubDate>Mon, 22 Aug 2022 08:58:34 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://harveyChang67.github.io/tags/docker/</link>
+      <pubDate>Mon, 22 Aug 2022 08:58:34 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I_Ching</title>
+      <link>https://harveyChang67.github.io/tags/i_ching/</link>
+      <pubDate>Sun, 26 Jun 2022 10:45:40 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/tags/i_ching/</guid>
       <description></description>
     </item>
     
@@ -102,15 +129,6 @@
       <pubDate>Thu, 28 Oct 2021 07:33:28 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/tags/lambda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>https://harveyChang67.github.io/tags/docker/</link>
-      <pubDate>Sun, 24 Oct 2021 04:36:32 +0000</pubDate>
-      
-      <guid>https://harveyChang67.github.io/tags/docker/</guid>
       <description></description>
     </item>
     

@@ -2,28 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harveyChang67.github.io/posts/moongodb_data_modeling/</loc>
-    <lastmod>2022-08-10T07:03:15+00:00</lastmod>
+    <loc>https://harveyChang67.github.io/tags/aci/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/acr/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/azure/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/categories/azure/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/categories/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/azure_container/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/docker/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/</loc>
-    <lastmod>2022-08-10T07:03:15+00:00</lastmod>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://harveyChang67.github.io/</loc>
+    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/categories/misc/</loc>
+    <lastmod>2022-08-21T09:56:52+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/timing_situation/</loc>
+    <lastmod>2022-08-21T09:56:52+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/moongodb_data_modeling/</loc>
     <lastmod>2022-08-10T07:03:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://harveyChang67.github.io/posts/about_hiring_n_recruiting/</loc>
     <lastmod>2022-07-21T23:04:08+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/categories/</loc>
-    <lastmod>2022-06-26T10:45:40+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -37,23 +82,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://harveyChang67.github.io/tags/</loc>
-    <lastmod>2022-06-26T10:45:40+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://harveyChang67.github.io/categories/%E6%98%93%E7%B6%93/</loc>
     <lastmod>2022-06-26T10:45:40+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/tags/azure/</loc>
-    <lastmod>2022-06-25T08:58:34+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/categories/azure/</loc>
-    <lastmod>2022-06-25T08:58:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -167,11 +197,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://harveyChang67.github.io/categories/misc/</loc>
-    <lastmod>2021-12-29T08:28:12+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://harveyChang67.github.io/posts/azure_website/</loc>
     <lastmod>2021-12-29T07:29:51+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -264,11 +289,6 @@
   </url><url>
     <loc>https://harveyChang67.github.io/posts/aws_api_gateway_with_static_ip/</loc>
     <lastmod>2021-10-26T09:18:39+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/tags/docker/</loc>
-    <lastmod>2021-10-24T04:36:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
