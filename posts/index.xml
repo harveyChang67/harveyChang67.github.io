@@ -5,14 +5,28 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 30 Sep 2022 02:40:01 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 02:52:30 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Materialized_Views</title>
+      <link>https://harveyChang67.github.io/posts/materialized_views/</link>
+      <pubDate>Fri, 30 Sep 2022 02:52:30 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/materialized_views/</guid>
+      <description>紀錄
+Materialized Views 與 實體表的副本 做法真的一樣？
+What’s the catch?
+差異在 前者 會額外占用 memory， 因此最好用在更有價值的查詢結果快取上， 別想著拿來替代 AB表切換。
+ ref:
+ Understanding Materialized Views — Part 1 Materialized Views: The Cost-Effective Way To Extract Insights Why Use a Materialized View?  </description>
+    </item>
+    
     <item>
       <title>Dotnet_parallel</title>
       <link>https://harveyChang67.github.io/posts/dotnet_parallel/</link>
       <pubDate>Fri, 30 Sep 2022 02:40:01 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/posts/dotnet_parallel/</guid>
-      <description>一個 Batch Task 遇到一段 Code， SQL.Select in a for-loop that runs 25k times
+      <description>一個 Batch Task 遇到一段 Code， SQL.Select in a for-loop that runs 25k times 特別是 for-loop 內 以 await 去使用了 async 的 DB Layer Func.
 我請團隊在 Parallel 的修改版本加上限制。
 var parallel = new ParallelOptions { MaxDegreeOfParallelism = 5 }; 也與另一個做法 Task.Run, Task.WhenAll 進一步區隔。
  ref:

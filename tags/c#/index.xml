@@ -12,7 +12,7 @@
       <pubDate>Fri, 30 Sep 2022 02:40:01 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/posts/dotnet_parallel/</guid>
-      <description>一個 Batch Task 遇到一段 Code， SQL.Select in a for-loop that runs 25k times
+      <description>一個 Batch Task 遇到一段 Code， SQL.Select in a for-loop that runs 25k times 特別是 for-loop 內 以 await 去使用了 async 的 DB Layer Func.
 我請團隊在 Parallel 的修改版本加上限制。
 var parallel = new ParallelOptions { MaxDegreeOfParallelism = 5 }; 也與另一個做法 Task.Run, Task.WhenAll 進一步區隔。
  ref:

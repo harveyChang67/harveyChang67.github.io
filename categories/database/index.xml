@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Database on 隨筆</title>
+    <link>https://harveyChang67.github.io/categories/database/</link>
+    <description>Recent content in Database on 隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Sep 2022 02:52:30 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Materialized_Views</title>
+      <link>https://harveyChang67.github.io/posts/materialized_views/</link>
+      <pubDate>Fri, 30 Sep 2022 02:52:30 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/materialized_views/</guid>
+      <description>紀錄
+Materialized Views 與 實體表的副本 做法真的一樣？
+What’s the catch?
+差異在 前者 會額外占用 memory， 因此最好用在更有價值的查詢結果快取上， 別想著拿來替代 AB表切換。
+ ref:
+ Understanding Materialized Views — Part 1 Materialized Views: The Cost-Effective Way To Extract Insights Why Use a Materialized View?  </description>
+    </item>
+    
+  </channel>
+</rss>
