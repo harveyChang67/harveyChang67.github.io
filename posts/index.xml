@@ -5,7 +5,20 @@
     <link>https://harveyChang67.github.io/posts/</link>
     <description>Recent content in Posts on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Aug 2022 08:58:34 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 02:40:01 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dotnet_parallel</title>
+      <link>https://harveyChang67.github.io/posts/dotnet_parallel/</link>
+      <pubDate>Fri, 30 Sep 2022 02:40:01 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/posts/dotnet_parallel/</guid>
+      <description>一個 Batch Task 遇到一段 Code， SQL.Select in a for-loop that runs 25k times
+我請團隊在 Parallel 的修改版本加上限制。
+var parallel = new ParallelOptions { MaxDegreeOfParallelism = 5 }; 也與另一個做法 Task.Run, Task.WhenAll 進一步區隔。
+ ref:
+ Running Async Foreach Loop C# async await Parallel.ForEach vs Task.Run and Task.WhenAll https://gitter.im/npgsql/npgsql?at=595a0319c101bc4e3a46654d  </description>
+    </item>
+    
     <item>
       <title>Deploy docker image to Azure</title>
       <link>https://harveyChang67.github.io/posts/azure_container/</link>

@@ -5,7 +5,16 @@
     <link>https://harveyChang67.github.io/categories/</link>
     <description>Recent content in Categories on 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Aug 2022 08:58:34 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 02:40:01 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET</title>
+      <link>https://harveyChang67.github.io/categories/.net/</link>
+      <pubDate>Fri, 30 Sep 2022 02:40:01 +0000</pubDate>
+      
+      <guid>https://harveyChang67.github.io/categories/.net/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Azure</title>
       <link>https://harveyChang67.github.io/categories/azure/</link>
@@ -39,15 +48,6 @@
       <pubDate>Wed, 18 May 2022 07:19:28 +0000</pubDate>
       
       <guid>https://harveyChang67.github.io/categories/c#/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.NET</title>
-      <link>https://harveyChang67.github.io/categories/.net/</link>
-      <pubDate>Wed, 27 Apr 2022 11:21:06 +0000</pubDate>
-      
-      <guid>https://harveyChang67.github.io/categories/.net/</guid>
       <description></description>
     </item>
     

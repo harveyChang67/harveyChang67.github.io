@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://harveyChang67.github.io/tags/.net/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/categories/.net/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/c#/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/categories/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/dotnet_parallel/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/posts/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/tags/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://harveyChang67.github.io/</loc>
+    <lastmod>2022-09-30T02:40:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://harveyChang67.github.io/tags/aci/</loc>
     <lastmod>2022-08-22T08:58:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,32 +62,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://harveyChang67.github.io/categories/</loc>
-    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://harveyChang67.github.io/posts/azure_container/</loc>
     <lastmod>2022-08-22T08:58:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://harveyChang67.github.io/tags/docker/</loc>
-    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/posts/</loc>
-    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/tags/</loc>
-    <lastmod>2022-08-22T08:58:34+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/</loc>
     <lastmod>2022-08-22T08:58:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -97,11 +117,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://harveyChang67.github.io/tags/c#/</loc>
-    <lastmod>2022-05-25T13:49:37+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://harveyChang67.github.io/posts/c_sharp_string2class/</loc>
     <lastmod>2022-05-25T13:49:37+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,16 +129,6 @@
   </url><url>
     <loc>https://harveyChang67.github.io/posts/c_sharp_big5/</loc>
     <lastmod>2022-05-18T07:19:28+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/tags/.net/</loc>
-    <lastmod>2022-04-27T11:21:06+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://harveyChang67.github.io/categories/.net/</loc>
-    <lastmod>2022-04-27T11:21:06+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
