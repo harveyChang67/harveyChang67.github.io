@@ -1,7 +1,7 @@
 ---
 title: "Cloud Service Provider_and_sloution_poc"
 date: 2022-11-03T00:05:10Z
-draft: true
+draft: false
 ---
 
 現職崗位有機會接觸代表不同 Cloud Service Provider 的顧問服務，
@@ -24,7 +24,7 @@ draft: true
 剩下的客群假設有預算但上雲需求有遇到難度的，
 這類生意做不做？
 
-前陣子確實有這樣的案例，
+我們確實也遇到這樣的案例，
 Google 代表做了許多 POC 承諾（業務面 domain knowhow 還沒掌握的狀況下），
 還真的用 Google AppSheet 爭取到案子。
 
