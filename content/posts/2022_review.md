@@ -2,6 +2,7 @@
 title: "2022_review"
 date: 2023-01-20T00:14:29Z
 draft: false
+categories: ["misc"]
 ---
 
 # 2022 小小回顧

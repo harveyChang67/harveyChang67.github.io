@@ -2,6 +2,7 @@
 title: "About_hiring_n_recruiting 關於 雇用、招聘"
 date: 2022-07-21T23:04:08Z
 draft: false
+categories: ["hiring"]
 ---
 
 近期因 Team Building 需要，公司輔導我承攬了招募的工作，
