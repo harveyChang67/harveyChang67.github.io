@@ -38,5 +38,6 @@ categories: ["misc"]
 ## Reference
 
 [什么是缓存雪崩、缓存击穿、缓存穿透？ - java技术爱好者的文章 - 知乎](https://zhuanlan.zhihu.com/p/346651831)
+[什么是缓存雪崩、击穿、穿透？](https://xiaolincoding.com/redis/cluster/cache_problem.html#%E7%BC%93%E5%AD%98%E9%9B%AA%E5%B4%A9)
 [布隆过滤器与布谷鸟过滤器 - 终端研发部的文章 - 知乎](https://zhuanlan.zhihu.com/p/462815302)
 [硬核 | Redis 布隆（Bloom Filter）过滤器原理与实战 - 码哥字节的文章 - 知乎](https://zhuanlan.zhihu.com/p/496584545)
