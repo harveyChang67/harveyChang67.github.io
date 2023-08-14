@@ -1,6 +1,6 @@
 baseURL: https://harveyChang67.github.io/
 # languageCode: en-us
-title: 隨筆
+title: Harvey's 隨筆
 paginate: 5
 theme: "PaperMod"
 
@@ -28,6 +28,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30
 
 sitemap:
   changefreq: weekly
@@ -35,3 +39,9 @@ sitemap:
   priority: 0.5
 
 googleAnalytics: "G-88L9K87ZCW"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

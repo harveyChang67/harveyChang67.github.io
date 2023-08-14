@@ -1,0 +1,38 @@
+baseURL = "https://harveyChang67.github.io/"
+title = "Harvey's 隨筆"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "G-88L9K87ZCW"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+defaultTheme = "dark"
+disableThemeToggle = false
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
