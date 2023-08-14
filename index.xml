@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>隨筆</title>
+    <title>Harvey&#39;s 隨筆</title>
     <link>https://harveyChang67.github.io/</link>
-    <description>Recent content on 隨筆</description>
+    <description>Recent content on Harvey&#39;s 隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 05 Mar 2023 09:20:27 +0000</lastBuildDate><atom:link href="https://harveyChang67.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -578,6 +578,7 @@ docker run --rm -it -v %cd%:/src klakegg/hugo:0.83.1 new posts/___.md   Local �
 docker run --rm -it -v %cd%:/src -p 1313:1313 klakegg/hugo:0.83.1 server   Themes：PaperMod https://github.com/adityatelange/hugo-PaperMod
 裡面的安裝指引可供參考</description>
     </item>
+    
     
   </channel>
 </rss>
